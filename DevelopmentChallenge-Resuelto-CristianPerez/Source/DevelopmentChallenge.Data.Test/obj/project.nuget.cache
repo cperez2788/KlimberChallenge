@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYCJmyV2JuTh4l3vZUoHVmnhlRds4AhzSNFg08eKCdI2JJjcVbzZ8dpozU6EDnb7z6jayeDziN5qsPoLORNonw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Klimber\\DesafioCristianPerez\\Source\\DevelopmentChallenge.Data.Test\\DevelopmentChallenge.Data.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit.consolerunner\\3.11.1\\nunit.consolerunner.3.11.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

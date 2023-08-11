@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Klimber\Nueva\DevelopmentChallenge.Data\DevelopmentChallenge.Data\bin\Debug\DevelopmentChallenge.Data.dll
+C:\Users\Admin\Documents\Klimber\Nueva\DevelopmentChallenge.Data\DevelopmentChallenge.Data\bin\Debug\DevelopmentChallenge.Data.pdb
+C:\Users\Admin\Documents\Klimber\Nueva\DevelopmentChallenge.Data\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Klimber\Nueva\DevelopmentChallenge.Data\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Klimber\Nueva\DevelopmentChallenge.Data\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.dll
+C:\Users\Admin\Documents\Klimber\Nueva\DevelopmentChallenge.Data\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.pdb
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\bin\Debug\DevelopmentChallenge.Data.dll
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\bin\Debug\DevelopmentChallenge.Data.pdb
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.csproj.CopyComplete
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.dll
+C:\Users\Admin\Documents\Klimber\DesafioCristianPerez\Source\DevelopmentChallenge.Data\obj\Debug\DevelopmentChallenge.Data.pdb
